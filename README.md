@@ -1,1 +1,1 @@
-# 10-Steps-of-ML
+# 8 Steps of Machine Learning
